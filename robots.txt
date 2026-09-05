@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://felipe-tommaselli.github.io/sitemap.xml
+Sitemap: https://felipe-tommaselli.github.io/lecropfollow/sitemap.xml
