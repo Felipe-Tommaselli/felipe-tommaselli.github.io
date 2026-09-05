@@ -73,19 +73,19 @@ a:hover {
   font-size: 13px;
 }
 
-h1 {
+h2.section-heading {
   margin: 18px 2.5% 4px;
   font-size: 22px;
   font-weight: 400;
 }
 
-h2 {
+h3 {
   margin: 24px 2.5% 4px;
   font-size: 18px;
   font-weight: 400;
 }
 
-h1 + p {
+h2.section-heading + p {
   margin: 8px 2.5% 18px;
 }
 

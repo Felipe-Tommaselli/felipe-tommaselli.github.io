@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://felipe-tommaselli.github.io/sitemap.xml
