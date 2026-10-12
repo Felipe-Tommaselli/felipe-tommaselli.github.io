@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Page not found | Felipe Tommaselli</title>
+<link rel="stylesheet" href="/stylesheet.css">
+<script>
+  // The Mind the Phase project page moved from /MindThePhase/ to /mindthephase/.
+  // Forward any old path (pages, figures, media) that has no explicit redirect page.
+  (function () {
+    var oldPrefix = "/MindThePhase/";
+    var path = location.pathname === "/MindThePhase" ? oldPrefix : location.pathname;
+    if (path.indexOf(oldPrefix) === 0) {
+      location.replace("/mindthephase/" + path.slice(oldPrefix.length) + location.search + location.hash);
+    }
+  })();
+</script>
+</head>
+<body>
+<main style="max-width: 640px; margin: 15vh auto; padding: 0 20px;">
+  <h1>Page not found</h1>
+  <p>Go to the <a href="/">homepage</a> or the <a href="/mindthephase/">Mind the Phase project page</a>.</p>
+</main>
+</body>
+</html>
