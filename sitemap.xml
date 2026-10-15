@@ -1,14 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://felipe-tommaselli.github.io/</loc>
+    <lastmod>2026-10-15</lastmod>
   </url>
   <url>
     <loc>https://felipe-tommaselli.github.io/lecropfollow/</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-10-15</lastmod>
+    <image:image>
+      <image:loc>https://felipe-tommaselli.github.io/lecropfollow/static/images/social_preview.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://felipe-tommaselli.github.io/lecropfollow/static/images/system_overview.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://felipe-tommaselli.github.io/lecropfollow/static/images/field_validation.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://felipe-tommaselli.github.io/mindthephase/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://felipe-tommaselli.github.io/mindthephase/method/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://felipe-tommaselli.github.io/mindthephase/studies/phase-split/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://felipe-tommaselli.github.io/mindthephase/studies/sim-to-real/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://felipe-tommaselli.github.io/mindthephase/studies/collapse/</loc>
+    <lastmod>2026-10-15</lastmod>
   </url>
 </urlset>

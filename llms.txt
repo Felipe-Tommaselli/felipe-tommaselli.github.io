@@ -1,0 +1,27 @@
+# Felipe Tommaselli
+
+> PhD student at the University of São Paulo researching robot learning, reinforcement learning, and learned representations.
+
+## Profile
+
+- [Research profile and publications](https://felipe-tommaselli.github.io/): Biography, current research, publications, and selected projects.
+- [ORCID](https://orcid.org/0000-0002-9638-4306): Researcher identifier.
+- [Google Scholar](https://scholar.google.com/citations?user=82s0cFIAAAAJ): Publication profile.
+
+## Research
+
+- [Mind the Phase](https://felipe-tommaselli.github.io/mindthephase/): Effective rank and representation health in legged locomotion, CoRL 2026.
+- [Method](https://felipe-tommaselli.github.io/mindthephase/method/): Rank definitions, policy architectures, training, and deployment protocol.
+- [Gait phases](https://felipe-tommaselli.github.io/mindthephase/studies/phase-split/): Swing–stance differences in policy Jacobian effective rank.
+- [Sim-to-real study](https://felipe-tommaselli.github.io/mindthephase/studies/sim-to-real/): Locomotion smoothness and tracking in simulation and on Spot hardware.
+- [Over-training study](https://felipe-tommaselli.github.io/mindthephase/studies/collapse/): Why higher effective rank alone is not evidence of healthier representations.
+- [LeCropFollow](https://felipe-tommaselli.github.io/lecropfollow/): Latent-space planning for zero-shot under-canopy navigation, IEEE Robotics and Automation Letters, 2026.
+
+## Open resources
+
+- [LeCropFollow code](https://github.com/Felipe-Tommaselli/lecropfollow): Simulation and training stack.
+- [LeCropFollow data](https://huggingface.co/datasets/arthurpompeu/lecrop-data): Dataset accompanying the project.
+- [HiveBoard](https://hiveboard-bench.github.io/): Open modular benchmark for contact-rich manipulation.
+- [CROW code](https://github.com/faffonso/CROW): Crop-row navigation implementation.
+
+Contact: f.tommaselli@usp.br
