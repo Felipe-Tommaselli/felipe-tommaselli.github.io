@@ -33,7 +33,7 @@ a:hover {
 }
 
 .header-row > td {
-  padding: 2.5%;
+  padding: 2.5% 2.5% 0.8%;
   vertical-align: middle;
 }
 
@@ -54,6 +54,7 @@ a:hover {
 }
 
 .profile-links {
+  margin-bottom: 5px;
   text-align: center;
 }
 
@@ -79,6 +80,10 @@ h2.section-heading {
   font-weight: 400;
 }
 
+.layout + h2.section-heading {
+  margin-top: 6px;
+}
+
 h3 {
   margin: 24px 2.5% 4px;
   font-size: 18px;
@@ -87,6 +92,14 @@ h3 {
 
 h2.section-heading + p {
   margin: 8px 2.5% 18px;
+}
+
+.conference-list {
+  margin: 0 2.5% 18px;
+}
+
+.conference-list s {
+  color: #666;
 }
 
 .project-intro {
